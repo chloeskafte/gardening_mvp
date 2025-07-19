@@ -1,5 +1,7 @@
 # Gardening MVP
 
+PDF Text Extraction of Gardening Guides
+
 This is a minimum viable product for a gardening application.
 
 ## Features
